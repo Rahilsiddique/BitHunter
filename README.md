@@ -1,5 +1,6 @@
 
 # Game Development - Big Bit Pirates <img src="https://cdn-icons-png.flaticon.com/512/1355/1355883.png" width="30" />
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/gweryf/105_BigBitPirates_Hackover3.0)
 
 A game developed by Big Bit Pirates during the Hackover 3.0. 
 
