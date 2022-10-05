@@ -10,13 +10,13 @@ A game developed by Big Bit Pirates during the Hackover 3.0.
 
 Single player shooting game 🔫 with enemies 👹
 
-## How to play
--Navigate player with navigation key <br>
+## How to play 
+-Navigate player with physical navigation keys or WASD keys <br>
 -Point at enemies with cursor <br>
--hit Target with bullets using spacebar
+-Hit the enemies with bullets using spacebar
 
 ## TechStack
--This game is entierly built with the help of Godot game engine.<br>
+-This game is entierly built with the help of <img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" width="20" /> Godot game engine<br>
 -We have used GDscript language to code this game.
 
 ##  Gameplay:
