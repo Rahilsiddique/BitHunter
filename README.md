@@ -18,6 +18,10 @@ Single player shooting game 🔫 with enemies 👹
 -This game is entierly built with the help of Godot game engine.<br>
 -We have used GDscript language to code this game.
 
+##  Gameplay:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105338002/193988117-23e64830-3b16-4818-a7e9-b6aa571c5eac.gif)
+
+
 ### Made with ❤️ by:
 -[Priyam](https://github.com/gweryf) <br>
 -[Aditya](https://github.com/aditya-918) <br>
