@@ -36,7 +36,9 @@ func fire():
 	bullet_instance.rotation_degrees = rotation_degrees
 	bullet_instance.apply_impulse(Vector2(),Vector2(bullet_speed,0).rotated(rotation))
 	get_tree().get_root().call_deferred("add_child",bullet_instance)
-
+	var collide = move_and_slide(Vector2())
+	
+	
 
 func kill():
 	get_tree().reload_current_scene()
@@ -44,3 +46,4 @@ func kill():
 func _on_Area2D_body_entered(body):
 	if "Enemy" in body.name:
 		kill()
+
