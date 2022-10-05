@@ -20,7 +20,8 @@ Single player shooting game 🔫 with enemies 👹
 -We have used GDscript language to code this game.
 
 ##  Gameplay:
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105338002/193988117-23e64830-3b16-4818-a7e9-b6aa571c5eac.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105338002/194055632-dc4c85e5-c4cc-4056-803c-71017f8312b8.gif)
+
 
 
 ### Made with ❤️ by:
