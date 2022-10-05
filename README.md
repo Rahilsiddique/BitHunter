@@ -2,6 +2,7 @@
 # Game Development - Big Bit Pirates <img src="https://cdn-icons-png.flaticon.com/512/1355/1355883.png" width="30" />
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/gweryf/105_BigBitPirates_Hackover3.0)
 ![GitHub top language](https://img.shields.io/github/languages/top/gweryf/105_BigBitPirates_Hackover3.0)
+![Github-Contributors](https://img.shields.io/github/contributors-anon/Rahilsiddique/105_BigBitPirates_Hackover3.0)
 [![Github-Pull Requests](https://img.shields.io/github/issues-pr-raw/Rahilsiddique/105_BigBitPirates_Hackover3.0)](https://github.com/Rahilsiddique/105_BigBitPirates_Hackover3.0/pulls)
 ![Github-Forks](https://img.shields.io/github/forks/Rahilsiddique/105_BigBitPirates_Hackover3.0?style=social)
 
