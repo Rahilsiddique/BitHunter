@@ -16,7 +16,7 @@ Single player shooting game 🔫 with enemies 👹
 -Hit the enemies with bullets using spacebar
 
 ## TechStack
--This game is entierly built with the help of <img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" width="20" /> Godot game engine<br>
+-This game is entierly built with the help of <img src="https://godotengine.org/assets/press/icon_color.svg" width="20" /> Godot game engine<br>
 -We have used GDscript language to code this game.
 
 ##  Gameplay:
